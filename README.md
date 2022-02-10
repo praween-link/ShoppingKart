@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+<img src="1.jpg" width="270" /> <img src="2.jpg" width="270" /> <img src="3.jpg" width="270" />
+
 ## Getting Started
 
 This project is a starting point for a Flutter application that follows the
